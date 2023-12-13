@@ -1,1 +1,1 @@
-link dashbord: https://github.com/gladishafifah/Analysis_Project
+link dashbord: https://analysisprojectdicoding.streamlit.app/
